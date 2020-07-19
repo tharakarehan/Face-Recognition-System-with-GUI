@@ -36,7 +36,7 @@ python modelFinal.py
 ### -Monitoring Mode
 
 <p align="center">
-  <img src="">
+  <img wide=720 height=550 src="https://github.com/tharakarehan/Face-Recognition-System-with-GUI/blob/master/Respo%20pics/UI01.png">
 </p>
 
 
