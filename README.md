@@ -6,12 +6,29 @@
 <p align="center">
   <img src="https://github.com/tharakarehan/Face-Recognition-System-with-GUI/blob/master/Respo%20pics/Hnet-image-4.gif">
 </p>
+
 ## Installation
 
-
+Create a new conda environment. If you dont have conda installed download [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ```bash
-pip install foobar
+conda create -n facereg python=3.6 
+```
+Clone this repository to your computer and navigate to the directory.
+
+Activate new enviroment
+```bash
+conda activate facereg  
+```
+Install all the libraries used
+```bash
+pip install -r requirements.txt  
+```
+
+Then run the model
+
+```bash
+python modelFinal.py 
 ```
 
 ## Usage
