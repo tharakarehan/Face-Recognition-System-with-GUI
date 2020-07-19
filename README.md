@@ -33,16 +33,16 @@ python modelFinal.py
 
 ## Usage
 
-#### Monitoring Mode
+### Monitoring Mode
 
 <p align="center">
   <img wide=720 height=550 src="https://github.com/tharakarehan/Face-Recognition-System-with-GUI/blob/master/Respo%20pics/UI01.png">
 </p>
 
-###### ① - User Registration Button
+#### ① - User Registration Button
 <div align="justify">This gives you access to the database where all the information and the images of the people are displayed.</div>
 
-###### ② - Monitor Button
+#### ② - Monitor Button
 <div align="justify">Monitor button will give access to the monitoring mode (from detection mode). Here only the faces are detected and a rectangle is drawn around the face. In addition, you can see the brightness adjustment panel on the right in this mode.</div>
 
 
